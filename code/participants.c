@@ -19,9 +19,8 @@ main (int argc, char *argv[])
 {
   int i = 0;
   printf ("%02d: Tracy Lewis-Williams\n", ++i);
-  
+  printf("%02d: India Green\n",++i);
 
 
   printf ("There are %i participants.\n", i);
   return 0;
-} // main
